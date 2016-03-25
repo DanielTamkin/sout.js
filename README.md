@@ -19,7 +19,7 @@ msgApp.bracket('Allowing you to have indenting','',1);
 ```
 Output:
 
-<!insert image here!>
+![Screenshot of sout.js example output](screenshot/output.jpg)
 
 ### Requires:
 | Module  | Version |
