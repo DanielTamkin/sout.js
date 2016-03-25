@@ -1,0 +1,26 @@
+{
+  "name": "sout.js",
+  "version": "1.0.0",
+  "description": "A simple Chalk container package",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DanielTamkin/sout.js.git"
+  },
+  "keywords": [
+    "Chalk",
+    "Container",
+    "Output",
+    "Daniel",
+    "Tamkin"
+  ],
+  "author": "Daniel Tamkin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DanielTamkin/sout.js/issues"
+  },
+  "homepage": "https://github.com/DanielTamkin/sout.js#readme"
+}
