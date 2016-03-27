@@ -1,6 +1,6 @@
 {
   "name": "sout.js",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "A simple Output container utilizing Chalk's awesomeness",
   "main": "index.js",
   "scripts": {
