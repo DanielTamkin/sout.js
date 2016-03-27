@@ -2,7 +2,7 @@
 
  A simple Output container utilizing Chalk's awesomeness.
 
- ### Install
+### Install
  `npm install sout-js --save`
 
 _Example useage:_
