@@ -49,6 +49,7 @@ const msgApp = new sout('AppName', 1);
 | Task  | Progress |
 | ------------- | ------------- |
 | Remove Giant objects </br> of possible colors.  | Done!  |
+| Push to public  | Done!  |
 | Load bar timer like npm  | on the table  |
 | Integrate A simple timer  | possibility  |
 
@@ -56,5 +57,5 @@ const msgApp = new sout('AppName', 1);
 - [x] Allow use of full `chalk.styles` object
 - [x] minimize code footprint
 - [x] give option of changing tab size.
+- [x] Make sout.js public!
 - [ ] create a kick-ass load bar replica, similar to npm's load bar
-- [ ] Make sout.js public!
