@@ -1,6 +1,6 @@
 # sout.js
 
-A simple Chalk container package.
+ A simple Output container utilizing Chalk's awesomeness.
 
 Example useage:
 ```javascript
