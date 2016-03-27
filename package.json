@@ -24,9 +24,7 @@
   "bugs": {
     "url": "https://github.com/DanielTamkin/sout.js/issues"
   },
-  "homepage": "https://github.com/DanielTamkin/sout.js#readme"
-  "author": "",
-  "license": "ISC",
+  "homepage": "https://github.com/DanielTamkin/sout.js#readme",
   "dependencies": {
     "chalk": "^1.1.1"
   }
