@@ -22,7 +22,7 @@ msgApp.bracket('Allowing you to have indenting','',1);
 ```
 Output:
 
-![Screenshot of sout.js example output](screenshot/output.jpg)
+![Screenshot of sout.js example output](https://raw.githubusercontent.com/DanielTamkin/sout.js/master/screenshot/output.jpg?token=AJF1WtXStYN42IgPFRVQj1QKh5qe861Vks5XAacAwA%3D%3D)
 
 
 ### Requires:
