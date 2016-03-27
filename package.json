@@ -1,6 +1,6 @@
 {
   "name": "sout.js",
-  "version": "1.0.3",
+  "version": "1.0.2",
   "description": "A simple Output container utilizing Chalk's awesomeness",
   "main": "index.js",
   "scripts": {
@@ -17,7 +17,7 @@
     "DanielTamkin"
   ],
   "author": "Daniel Tamkin",
-  "license": "MIT",
+  "license": "ISC",
   "dependencies": {
     "chalk": "^1.1.1"
   },
