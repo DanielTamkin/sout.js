@@ -2,7 +2,10 @@
 
  A simple Output container utilizing Chalk's awesomeness.
 
-Example useage:
+ ### Install
+ `npm install sout-js --save`
+
+_Example useage:_
 ```javascript
 const sout   = require('sout-js');
 const msgApp = new sout('AppName');
@@ -20,6 +23,7 @@ msgApp.bracket('Allowing you to have indenting','',1);
 Output:
 
 ![Screenshot of sout.js example output](screenshot/output.jpg)
+
 
 ### Requires:
 | Module  | Version |

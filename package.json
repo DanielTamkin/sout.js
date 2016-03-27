@@ -1,7 +1,7 @@
 {
   "name": "sout.js",
   "version": "1.0.0",
-  "description": "A simple Chalk container package",
+  "description": "A simple Output container utilizing Chalk's awesomeness",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
