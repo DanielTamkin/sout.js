@@ -25,3 +25,18 @@ Output:
 | Module  | Version |
 | ------------- | ------------- |
 | [Chalk](https://www.npmjs.com/package/chalk)  | ^1.1.1  |
+
+---
+
+*Pro tip:* You can indent a whole object of messages,
+ do this when your creating creating a `new sout()`
+```javascript
+const msgApp = new sout('AppName', 1);
+```
+---
+
+#### To do:
+| Task  | Progress |
+| ------------- | ------------- |
+| Remove Giant objects </br> of possible colors.  | on the table  |
+| Integrate A simple timer  | possibility  |
