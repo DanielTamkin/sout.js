@@ -1,6 +1,6 @@
 {
   "name": "sout.js",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A simple Output container utilizing Chalk's awesomeness",
   "main": "index.js",
   "scripts": {
@@ -24,8 +24,5 @@
   "bugs": {
     "url": "https://github.com/DanielTamkin/sout.js/issues"
   },
-  "homepage": "https://github.com/DanielTamkin/sout.js#readme",
-  "dependencies": {
-    "chalk": "^1.1.1"
-  }
+  "homepage": "https://github.com/DanielTamkin/sout.js#readme"
 }
