@@ -14,8 +14,7 @@
     "Chalk",
     "Container",
     "Output",
-    "Daniel",
-    "Tamkin"
+    "DanielTamkin"
   ],
   "author": "Daniel Tamkin",
   "license": "ISC",
@@ -26,4 +25,9 @@
     "url": "https://github.com/DanielTamkin/sout.js/issues"
   },
   "homepage": "https://github.com/DanielTamkin/sout.js#readme"
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^1.1.1"
+  }
 }
