@@ -3,11 +3,11 @@
  A simple Output container utilizing Chalk's awesomeness.
 
 ### Install
- `npm install sout-js --save`
+ `npm install sout.js --save`
 
 _Example useage:_
 ```javascript
-const sout   = require('sout-js');
+const sout   = require('sout.js');
 const msgApp = new sout('AppName');
 
 
