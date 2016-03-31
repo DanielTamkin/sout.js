@@ -18,6 +18,8 @@
     "terminal",
     "log",
     "Chalk",
+    "sout",
+    "sout.js",
     "command-line",
     "logging",
     "DanielTamkin"
