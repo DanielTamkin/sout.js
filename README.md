@@ -2,7 +2,7 @@
 
 A simple Output container utilizing Chalk's awesomeness.
 
-[![npm](https://img.shields.io/npm/dm/sout.js.svg?style=plastic)](https://github.com/DanielTamkin/sout.js)]
+[![npm](https://img.shields.io/npm/dm/sout.js.svg?style=plastic)](https://github.com/DanielTamkin/sout.js)
 
 ### Install
  `npm install sout.js --save`
