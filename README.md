@@ -1,6 +1,14 @@
-# sout.js
+<h1 align="center">sout.js</h1>
+<p align="center">
 
- A simple Output container utilizing Chalk's awesomeness.
+A simple Output container utilizing Chalk's awesomeness.
+</br>
+</br>
+[![npm](https://img.shields.io/npm/dm/sout.js.svg?style=plastic)](https://github.com/DanielTamkin/sout.js)
+
+</p>
+
+
 
 ### Install
  `npm install sout.js --save`
