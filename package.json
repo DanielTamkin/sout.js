@@ -14,6 +14,12 @@
     "Chalk",
     "Container",
     "Output",
+    "console",
+    "terminal",
+    "log",
+    "Chalk",
+    "command-line",
+    "logging",
     "DanielTamkin"
   ],
   "author": "Daniel Tamkin",
